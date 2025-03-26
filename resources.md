@@ -1,6 +1,6 @@
 # EBAC Frontend Webinar: Recursos
 
-## Refeencias a respuestas de Slido
+## Referencias a respuestas de Slido
 - Sueldo de software engineer https://www.levels.fyi/?compare=Netflix,Apple,Facebook,Microsoft,Google&track=Software%20Engineer
 - Lenguaje más usado https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language
 - Qué porcentaje de programadores profesionales confía en alguna medida en código escrito por AI https://survey.stackoverflow.co/2024/ai#developer-tools-ai-acc
