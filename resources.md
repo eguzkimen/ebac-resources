@@ -7,11 +7,8 @@
 - Qué porcentaje de programadores en el mundo son autodidactas? https://survey.stackoverflow.co/2024/developer-profile#learning-to-code-learn-code
 - Cuál es el mínimo retraso en una aplicación para provocar frustación en un usuario 100ms (https://stackoverflow.com/a/2547903)
 
-## Temas concretos
-
 ### Programar con AI
-- Por qué es importante la el desarrollo basado en pruebas (TDD) al programar con AI:
-	- https://www.readysetcloud.io/blog/allen.helton/tdd-with-ai/
+- Por qué es importante la el desarrollo basado en pruebas (TDD) al programar con AI: https://www.readysetcloud.io/blog/allen.helton/tdd-with-ai/
 
 #### Optimización
 - Performance tab en google chrome, y como usarla (en español): https://developer.chrome.com/docs/devtools/performance?hl=es-419
